@@ -1,5 +1,5 @@
 import math
-from utils.SolutionTemplate import SolutionTemplate
+from year_2019.utils.solution_template import SolutionTemplate
 
 def get_fuel_per_weight(weight):
     fuel_needed = math.floor(weight / 3) - 2

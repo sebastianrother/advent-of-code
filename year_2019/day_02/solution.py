@@ -1,4 +1,4 @@
-from utils.SolutionTemplate import SolutionTemplate
+from year_2019.utils.solution_template import SolutionTemplate
 
 class Solution(SolutionTemplate):
     @staticmethod

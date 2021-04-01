@@ -1,5 +1,5 @@
 import unittest
-from day_02.solution import Solution
+from year_2019.day_02.solution import Solution
 
 class TestDay02(unittest.TestCase):
     def test_part01_example01(self):
